@@ -1,8 +1,8 @@
 # Mønstre i Modstand
->Course Material for Royal Danish Academy of Fine Arts ([KADK](https://kadk.dk/en/)) course taught with [Laboratory for Aesthetics and Ecology](http://www.labae.org/) &amp; [Mace Ojala](https://github.com/xmacex).
+>Class material for course taught at The Royal Danish Academy of Fine Arts ([KADK](https://kadk.dk/en/)) together with [Laboratory for Aesthetics and Ecology](http://www.labae.org/) &amp; [Mace Ojala](https://github.com/xmacex).
 
 
-This class for bachelor students serves as an intro to programming & weaving. The course covers the history of the computer, feminist theory, technology criticism and the connection between programming and crafting techniques. 
+This class for bachelor students in the fine art department serves as an intro to programming & weaving. The course covers the history of the computer, feminist theory, technology criticism and the connection between programming and crafting techniques. 
 
 ## Binary Code & the Loom
 
