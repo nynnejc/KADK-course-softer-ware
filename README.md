@@ -12,8 +12,8 @@ Participants will be offered a hands-on weaving demo to fully understand the con
 
 ### Readings:
  
-Sadie Plant: Zeros and Ones - special focus on page 1-55.
-Paul Dourish: The Stuff of Bits. An Essay on the Materialities of Information (MIT Press 2017), chapter 1. Introduction: Information as Material.
+- Sadie Plant: Zeros and Ones - special focus on page 1-55.
+- Paul Dourish: The Stuff of Bits. An Essay on the Materialities of Information (MIT Press 2017), chapter 1. Introduction: Information as Material.
 
 ## Applied Technology
 
@@ -22,8 +22,8 @@ Visit to a textile workshop. Discussing textile not just as the dusty past of te
 
 ### Readings:
 
-Susan Kuchera: The Weavers and Their Information Webs: Steganography in the Textile Arts
-Wendy Chun: On Software or the persistence of visual knowledge
-Ross Anderson: [Losing the thread](https://aeon.co/essays/how-textiles-repeatedly-revolutionised-human-technology)
+- Susan Kuchera: The Weavers and Their Information Webs: Steganography in the Textile Arts
+- Wendy Chun: On Software or the persistence of visual knowledge
+- Ross Anderson: [Losing the thread](https://aeon.co/essays/how-textiles-repeatedly-revolutionised-human-technology)
 
 
